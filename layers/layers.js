@@ -6,7 +6,7 @@ var lyr_Schetsontwerk_Europastraat4_0 = new ol.layer.Image({
                             
                             
                             source: new ol.source.ImageStatic({
-                               url: "./layers/Schetsontwerk_Europastraat4_0.png",
+                               url: "https://github.com/Maaka2890/Borne_europalaan_feedback/blob/main/layers/Schetsontwerk_Europastraat4_0.png",
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
